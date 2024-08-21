@@ -12,8 +12,6 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 
-
-
 import java.util.HashMap;
 
 public class Main {
